@@ -1,0 +1,21 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Json Schema",
+	"Description": "Adding json schema to the game using valijson library",
+	"Category": "Misc",
+	"CreatedBy": "Emad Abbasnezhad",
+	"CreatedByURL": "https://github.com/realEmadAbbasnezhad",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JsonSchema",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
